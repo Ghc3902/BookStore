@@ -1,3 +1,5 @@
+# Flask Bookstore Application
+# Hruthik Gorantla – CS665 Project
 
 from flask import Flask, render_template, request, redirect, url_for, session, flash
 import sqlite3
